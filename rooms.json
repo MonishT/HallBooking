@@ -1,0 +1,11 @@
+[
+    {
+        "roomId": 9,
+        "roomName": "Room 9",
+        "customerName": "Guna",
+        "date": "29/05/2022",
+        "startTime": "10:50",
+        "endTime": "19:00",
+        "bookingId": 1234
+    }
+]
